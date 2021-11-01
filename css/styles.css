@@ -140,3 +140,37 @@ h1, h2 {
 #center-reason a:visited {
     color: black;
 }
+
+/* about section */
+
+#about {
+    height: 200px;
+}
+
+#about h2 {
+    text-align: center;
+    font-size: 250%;
+    text-decoration: none;
+}
+
+#about-text {
+    text-align: center;
+    padding: 30px;
+}
+
+#john-image {
+    text-align: center;
+}
+
+#circle-container {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+#circle-image {
+    background: url('../images/pexels-italo-melo-2379005.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
