@@ -68,12 +68,13 @@ h1, h2 {
     font-family: Roboto, sans-serif;
     text-transform: uppercase;
     padding: 50px 0 0 20px;
-    width: 350px;
+    width: 450px;
     height: 100px;
     background-color: rgba(221, 154, 30, .8);
     position: absolute;
     top: 200px;
     left: 50px;
+    text-align: left;
 }
 
 #back-image {
@@ -92,4 +93,50 @@ h1, h2 {
     to {
         transform: scale(1.1);
     }
+}
+
+/* reasons section */
+
+#reasons {
+    height: 200px;
+}
+
+#why {
+    text-align: center;
+    font-size: 250%;
+    text-decoration: none;
+    padding-top: 20px;
+}
+
+#left-reason {
+    width: 33%;
+    float: left;
+}
+
+#right-reason {
+    width: 33%;
+    float: right;
+}
+
+#center-reason {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.reason {
+    text-align: center;
+    padding: 15px;
+}
+
+#center-reason a {
+    text-decoration: none;
+    font-style: italic;
+}
+
+#center-reason a:hover {
+    text-decoration: underline;
+}
+
+#center-reason a:visited {
+    color: black;
 }
