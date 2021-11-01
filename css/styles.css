@@ -8,7 +8,7 @@
 
 body {
     font-family: Montserrat, sans-serif;
-    font-weight: 300;
+    font-weight: 500;
     color: black;
 }
 
@@ -69,7 +69,7 @@ h1, h2 {
     font-family: Roboto, sans-serif;
     text-transform: uppercase;
     padding: 50px 0 0 20px;
-    width: 450px;
+    width: 300px;
     height: 100px;
     background-color: rgba(221, 154, 30, .8);
     position: absolute;
@@ -146,7 +146,7 @@ h1, h2 {
 /* about section */
 
 #about {
-    height: 350px;
+    height: 400px;
 }
 
 #about h2 {
@@ -213,7 +213,7 @@ iframe {
 /* reviews section */
 
 #reviews {
-    height: 250px;
+    height: 300px;
 }
 
 #reviews h2 {
@@ -225,7 +225,7 @@ iframe {
 #reviews div {
     background-color: rgba(221, 154, 30, .8);
     width: 25%;
-    height: 175px;
+    height: 220px;
     float: left;
     padding: 15px;
     text-align: center;
@@ -257,4 +257,41 @@ footer h2 {
     padding: 5%;
     color: rgba(221, 154, 30, .8);
 
+}
+
+/* plans page */
+
+#plan-image {
+    clear: left;
+    background-image: url('../images/sign-up-image.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+}
+
+.plan {
+    clear: left;
+    padding: 30px;
+    background-color: rgba(221, 154, 30, .8);
+    width: 20%;
+    position: relative;
+    top: 50px;
+    left: 25px;
+}
+
+.plan ul {
+    padding: 30px;
+}
+
+#sign-up {
+    text-decoration: none;
+    padding-bottom: 15px;
+}
+
+.plan a {
+    background-color: rgba(0, 0, 0, .8);
+    color: rgba(221, 154, 30, .8);
+    padding: 10px;
+    margin-top: 10px;
+    text-decoration: none;
 }
