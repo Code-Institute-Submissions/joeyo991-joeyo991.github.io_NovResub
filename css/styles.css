@@ -213,7 +213,6 @@ iframe {
 /* reviews section */
 
 #reviews {
-    background-color: rgba(221, 154, 30, .8);
     height: 250px;
 }
 
@@ -224,6 +223,7 @@ iframe {
 }
 
 #reviews div {
+    background-color: rgba(221, 154, 30, .8);
     width: 25%;
     height: 175px;
     float: left;
