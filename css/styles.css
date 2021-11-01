@@ -55,6 +55,7 @@ h1, h2 {
     padding: 5px;
 }
 
+
 /* welcome area */
 
 #welcome-box {
@@ -128,16 +129,17 @@ h1, h2 {
     padding: 15px;
 }
 
-#center-reason a {
+#center-reason > a {
     text-decoration: none;
     font-style: italic;
+    color: black;
 }
 
-#center-reason a:hover {
+#center-reason > a:hover {
     text-decoration: underline;
 }
 
-#center-reason a:visited {
+#center-reason > a:visited {
     color: black;
 }
 
@@ -173,6 +175,39 @@ h1, h2 {
     background: url('../images/pexels-italo-melo-2379005.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
+}
+
+/* map section */
+
+#link-to-plans {
+    text-align: center;
+    padding: 30px;
+}
+
+#link-to-plans h2 {
+    padding-bottom: 30px;
+}
+
+#plans-link {
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px;
+    background-color: rgba(221, 154, 30, .8);
+    color: black;
+}
+
+#plans-link:hover {
+    background-color: black;
+    color: rgba(221, 154, 30, .8);
+}
+
+#map {
+    text-align: center;
+    padding: 30px;
+}
+
+iframe {
+    width: 70%;
 }
 
 /* reviews section */
