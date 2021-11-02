@@ -308,6 +308,7 @@ footer h2 {
     padding: 10px;
     background-color: rgba(0, 0, 0, .8);
     color: rgba(221, 154, 30, .8);
+    text-decoration: none;
 }
 
 /* sign up page */
