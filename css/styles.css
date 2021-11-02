@@ -71,7 +71,7 @@ h1, h2 {
     padding: 20px 0 0 20px;
     width: 300px;
     height: 120px;
-    background-color: rgba(221, 154, 30, .8);
+    background-color: rgba(221, 154, 30, .6);
     position: absolute;
     top: 200px;
     left: 50px;
@@ -194,13 +194,13 @@ h1, h2 {
     text-decoration: none;
     text-transform: uppercase;
     padding: 10px;
-    background-color: rgba(221, 154, 30, .8);
+    background-color: rgba(221, 154, 30, .6);
     color: black;
 }
 
 #plans-link:hover {
     background-color: black;
-    color: rgba(221, 154, 30, .8);
+    color: rgba(221, 154, 30, .6);
 }
 
 #map {
@@ -227,7 +227,7 @@ iframe {
 }
 
 #reviews div {
-    background-color: rgba(221, 154, 30, .8);
+    background-color: rgba(221, 154, 30, .6);
     width: 25%;
     height: 220px;
     float: left;
@@ -276,7 +276,7 @@ footer h2 {
 .plan {
     clear: left;
     padding: 15px;
-    background-color: rgba(221, 154, 30, .8);
+    background-color: rgba(221, 154, 30, .6);
     width: 20%;
     top: 50px;
     left: 25px;
@@ -295,7 +295,7 @@ footer h2 {
     clear: left;
     text-align: center;
     color: rgba(0, 0, 0, .8);
-    background-color: rgba(221, 154, 30, .8);
+    background-color: rgba(221, 154, 30, .6);
     padding: 20px;
     margin-top: 50px;
     text-decoration: none;
@@ -307,7 +307,7 @@ footer h2 {
 #sign-up-button a {
     padding: 10px;
     background-color: rgba(0, 0, 0, .8);
-    color: rgba(221, 154, 30, .8);
+    color: rgba(221, 154, 30, .6);
     text-decoration: none;
 }
 
@@ -322,7 +322,7 @@ footer h2 {
 }
 
 .sign-up-form {
-    background-color: rgba(221, 154, 30, .8);
+    background-color: rgba(221, 154, 30, .6);
     padding: 30px;
     position: absolute;
     left: 20%;
@@ -355,7 +355,7 @@ footer h2 {
     padding: 10px;
     text-align: center;
     background-color: rgba(0, 0, 0, .8);
-    color: rgba(221, 154, 30, .8);
+    color: rgba(221, 154, 30, .6);
     display: block;
     font-weight: 300;
     font-size: larger;
