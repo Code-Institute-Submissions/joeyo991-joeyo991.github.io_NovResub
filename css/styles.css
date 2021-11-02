@@ -70,7 +70,7 @@ h1, h2 {
     text-transform: uppercase;
     padding: 20px 0 0 20px;
     width: 300px;
-    height: 100px;
+    height: 120px;
     background-color: rgba(221, 154, 30, .8);
     position: absolute;
     top: 200px;
@@ -146,7 +146,7 @@ h1, h2 {
 /* about section */
 
 #about {
-    height: 400px;
+    height: 500px;
 }
 
 #about h2 {
@@ -162,6 +162,8 @@ h1, h2 {
 
 #john-image {
     text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 #circle-container {
@@ -214,6 +216,8 @@ iframe {
 
 #reviews {
     height: 300px;
+    width: 100%;
+    overflow: hidden;
 }
 
 #reviews h2 {
@@ -269,12 +273,15 @@ footer h2 {
     height: 800px;
 }
 
+#plans {
+
+}
+
 .plan {
     clear: left;
-    padding: 30px;
+    padding: 15px;
     background-color: rgba(221, 154, 30, .8);
     width: 20%;
-    position: relative;
     top: 50px;
     left: 25px;
 }
@@ -288,12 +295,23 @@ footer h2 {
     padding-bottom: 15px;
 }
 
-.plan a {
+#sign-up-button {
+    clear: left;
+    text-align: center;
+    color: rgba(0, 0, 0, .8);
+    background-color: rgba(221, 154, 30, .8);
+    padding: 20px;
+    margin-top: 50px;
+    text-decoration: none;
+    width: 15%;
+    position: relative;
+    left: 40%;
+}
+
+#sign-up-button a {
+    padding: 10px;
     background-color: rgba(0, 0, 0, .8);
     color: rgba(221, 154, 30, .8);
-    padding: 10px;
-    margin-top: 10px;
-    text-decoration: none;
 }
 
 /* sign up page */
@@ -346,4 +364,80 @@ footer h2 {
     font-size: larger;
 }
 
+/* Media queries */
 
+/* For larger and medium screens */
+
+@media screen and (max-width: 1200px) {
+    #about h2 {
+        text-align: center;
+        font-size: 250%;
+        text-decoration: none;
+        padding-top: 20px;
+    }
+
+    #reviews {
+        height: fit-content;
+    }
+
+    #reviews > div {
+        width: 100%;
+        clear: both;
+        float: left;
+        padding: 0;
+        height: fit-content;
+    }
+
+    #plan-image {
+        height: fit-content;
+    }
+
+    .plan {
+        clear: both;
+        height: fit-content;
+        width: fit-content;
+    }
+
+#sign-up-button {
+    width: fit-content;
+    height: fit-content;
+    position: relative;
+    left: 20%;
+}
+
+}
+
+/*For medium screens */
+
+@media screen and (max-width: 950px) {
+
+    #navigation {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 30px;
+    }
+
+    #reasons {
+        width: 90%;
+        height: fit-content;
+    }
+
+    #left-reason, #right-reason, #center-reason {
+        width: 100%;
+        text-align: center;
+        clear: both;
+        float: left;
+    }
+
+    #about {
+        clear: both;
+        height: fit-content;
+    }
+
+    #link-to-plans {
+        clear: both;
+    }
+
+}
