@@ -81,7 +81,8 @@ h1, h2 {
 #back-image {
     height: 650px;
     width: 100%;
-    background: url('../images/hero-image-one.jpg') no-repeat center center;
+    background: url('../images/gymer-1126999_960_720.webp');
+    background-size: cover;
 }
 
 /* reasons section */
@@ -134,7 +135,7 @@ h1, h2 {
 /* about section */
 
 #about {
-    height: 500px;
+    height: 350px;
 }
 
 #about h2 {
@@ -381,13 +382,14 @@ footer h2 {
         clear: both;
         height: fit-content;
         width: fit-content;
+        text-align: center;
     }
 
-#sign-up-button {
-    width: fit-content;
-    height: fit-content;
-    position: relative;
-    left: 20%;
+    #sign-up-button {
+        width: fit-content;
+        height: fit-content;
+        position: relative;
+        left: 20%;
 }
 
 }
@@ -423,6 +425,143 @@ footer h2 {
 
     #link-to-plans {
         clear: both;
+    }
+
+}
+
+@media screen and (max-width: 500px) {
+    
+    h2 {
+        font-size: 100%;
+    }
+
+    #navigation li {
+        clear: left;
+        margin: 0 auto;
+        line-height: 30px;
+        padding: 0 10px 0 10px;
+    }
+
+    #logo {
+        font-size: 200%;
+    }
+
+    #welcome-box {
+        height: 500px;
+        width: 100%;
+        display: grid;
+        place-items: center;
+    }
+
+    #welcome-text {
+        width: 80%;
+        float: left;
+        left: auto;
+        text-align: center;
+        bottom: 50%;
+    }
+
+    #welcome-text h2 {
+        font-size: 125%;
+        padding-bottom: 10px;
+    }
+
+    body {
+        text-align: center;
+    }
+
+    #reasons {
+        text-align: center;
+    }
+    
+    #why {
+        font-size: 125%;
+        margin: auto;
+    }
+
+    #about h2 {
+        font-size: 125%;
+    }
+
+    iframe {
+        width: 100%;
+        height: 300px;
+    }
+    
+    #reviews h2 {
+        font-size: 125%;
+    }
+
+}
+
+
+/* For small screens*/
+
+@media screen and (max-width: 320px) {
+
+    h2 {
+        font-size: 100%;
+    }
+
+    #navigation li {
+        clear: left;
+        margin: 0 auto;
+        line-height: 30px;
+        padding: 0 10px 0 10px;
+    }
+
+    #logo {
+        font-size: 200%;
+    }
+
+    #back-image {
+        visibility: hidden;
+    }
+
+    #welcome-box {
+        height: 200px;
+        width: 100%;
+    }
+
+    #welcome-text {
+        width: 100%;
+        float: left;
+        padding: 30px 2px 30px 2px;
+        position: absolute;
+        top: 30px;
+        left: auto;
+        text-align: center;
+}
+
+    #welcome-text h2 {
+        font-size: 125%;
+        padding-bottom: 10px;
+    }
+
+    body {
+        text-align: center;
+    }
+
+    #reasons {
+        text-align: center;
+    }
+    
+    #why {
+        font-size: 125%;
+        margin: auto;
+    }
+
+    #about h2 {
+        font-size: 125%;
+    }
+
+    iframe {
+        width: 100%;
+        height: 300px;
+    }
+    
+    #reviews h2 {
+        font-size: 125%;
     }
 
 }
