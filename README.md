@@ -4,7 +4,7 @@
 
 Welcome to the process through <a href="https://joeyo991.github.io/" target="_blank" rel="noopener">121 Fitness</a>
 
-![121 Fitness responsive design](assets/readme-images/responsive.png)
+![121 Fitness responsive design](readme-images/responsive.png)
 
 # Features
 
@@ -17,7 +17,7 @@ Welcome to the process through <a href="https://joeyo991.github.io/" target="_bl
     * The logo is clickable with a link back to the home page for enhanced UX.
     * The page the user is currently on has a box around it in the navigation menu to easily remind them and for design purposes.
 
-![Navigation bar image](assets/readme-images/navbar.png)
+![Navigation bar image](readme-images/navbar.png)
 
   * ### Reasons
 
@@ -25,7 +25,7 @@ Welcome to the process through <a href="https://joeyo991.github.io/" target="_bl
     * These are the reasons that the user would want to sign up to 121 Fitness.
     * An imbedded link to the plans page in the text will help the user navigate there quickly if they please.
 
-![Reasons image](assets/readme-images/reasons.png)
+![Reasons image](readme-images/reasons.png)
 
   * ### About Me
     
@@ -33,14 +33,14 @@ Welcome to the process through <a href="https://joeyo991.github.io/" target="_bl
     * This section lets the user know how 121 Fitness started and how its going.
     * The section also gives them a photo of 'John' to make it feel more personal.
 
-![About Me image](assets/readme-images/aboutme.png)
+![About Me image](readme-images/aboutme.png)
 
   * ### Map
 
     * The map is located below the About Me section.
     * It shows the user where the company is situated in Dublin City.
 
-![Map image](assets/readme-images/map.png)
+![Map image](readme-images/map.png)
 
   * ### Reviews
 
@@ -48,7 +48,7 @@ Welcome to the process through <a href="https://joeyo991.github.io/" target="_bl
     * There are four reviews displayed giving a name, age and some text.
     * The reviews could be updated over time as more become available.
 
-![Reviews image](assets/readme-images/reviews.png)
+![Reviews image](readme-images/reviews.png)
 
   * ### Footer
 
@@ -56,7 +56,7 @@ Welcome to the process through <a href="https://joeyo991.github.io/" target="_bl
     * To enhance the UX the links open in a new tab.
     * The social media presence will help the user with their research into 121 Fitness and will also encourage them to connect.
 
-![Footer image](assets/readme-images/footer.png)
+![Footer image](readme-images/footer.png)
 
   * ### Plans Page
 
@@ -65,7 +65,7 @@ Welcome to the process through <a href="https://joeyo991.github.io/" target="_bl
     * The image is meant to keep the user engaged on the page.
     * There is also a button which links to the sign up page if the user likes what they see.
 
-![Plans Page image](assets/readme-images/plans-page.png)
+![Plans Page image](readme-images/plans-page.png)
 
   * ### Sign Up Page
 
