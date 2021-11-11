@@ -4,6 +4,8 @@
 
 Welcome to the process through <a href="https://joeyo991.github.io/" target="_blank" rel="noopener">121 Fitness</a>
 
+![121 Fitness responsive design](assets/readme-images/responsive.png)
+
 # Features
 
 121 Fitness is set up to be welcoming and easy to use. It contains many features that the user would probably be familiar with, such as a navigation bar and a sign-up page. The site is inteded to be visually pleasing and invite the user to explore further.
