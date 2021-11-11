@@ -72,7 +72,23 @@ Welcome to the process through <a href="https://joeyo991.github.io/" target="_bl
     * The sign up page also has a image to keep the user engaged.
     * The sign up form is stylish and simple to use to enhance UX.
     * Each of the form input areas are required to ensure the user doesn't skip any of them by mistake.
-    * 
+
+![Sign Up Page image](readme-images/signup-page.png) 
+
+  * ### Form Confirmation
+    * This page confirms that the user has submitted the form.
+    * For this project it validates the form only.
+    * It provides a direct link back to the home page as well as the normal navigational links in the header.
+
+![Form Confirmation image](readme-images/form-confirmation.png)
+
+## Future Features
+
+* My Account
+  * Let the user check their progress and view their plan on the site.
+* Gallery
+  * The site could have a gallery of before and after pictures from clients.
+* 
 
    
 
