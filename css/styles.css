@@ -357,6 +357,7 @@ footer h2 {
     height: 400px;
     display: grid;
     place-items: center;
+    background-color: rgba(221, 154, 30, .6);
 }
 
 #form-destination-text > h2 {
