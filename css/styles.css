@@ -81,7 +81,7 @@ h1, h2 {
 #back-image {
     height: 650px;
     width: 100%;
-    background: url('../images/gymer-1126999_960_720.webp');
+    background: url('../images/gymer-1126999_960_720.webp') center no-repeat;
     background-size: cover;
 }
 
@@ -349,6 +349,20 @@ footer h2 {
     font-weight: 300;
     font-size: larger;
 }
+
+#form-destination-text {
+    clear: both;
+    text-align: center;
+    padding: 50px 0 50px 0;
+    height: 400px;
+    display: grid;
+    place-items: center;
+}
+
+#form-destination-text > h2 {
+    text-decoration: none;
+}
+
 
 /* Media queries */
 
