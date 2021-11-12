@@ -162,8 +162,36 @@ The results for 121 Fitness' Home Page are below:
 
 ![Lighthouse test results](readme-images/testing.png)
 
+# Deployment
 
+## To deploy the project
 
+The site was deployed to GitHub Pages. The steps to deploy a site are as follows:
 
+1. In the GitHub repository, navigate to the **Settings** tab.
+2. In Settings, navigate to the **Pages** tab on the left side.
+3. Under **Source**, select the branch to main / master, then click save.
+4. Once the main branch has been selected, the page will automatically refresh and indicate that the deployment was successful.
+
+![GitHub pages deployment image](readme-images/github-deploy.png)
+
+The live link to the GitHub repository is - https://github.com/joeyo991/joeyo991.github.io
+
+# Credits
+
+### Content
+* The fonts came from [Google Fonts](https://fonts.google.com/).
+* The icons came from [Font Awesome](https://fontawesome.com/).
+* The map is embedded from [Google Maps](https://www.google.com/maps).
+* Some of the code was inspired by the Love Running Project by the [Code Institute](https://codeinstitute.net/).
+* The form validation page idea was from a [YouTube Tutorial](https://www.youtube.com/watch?v=fNcJuPIZ2WE).
+
+### Media
+* The images on this site were from [Pexels](https://www.pexels.com/) and [Pixabay](https://pixabay.com/).
+
+# Acknowledgements
+This site was completed as a Portfolio Project 1 for the Full Stack Software Developer (e-Commerce) Diploma at the [Code Institute](https://codeinstitute.net/). I would like to thank my mentor Precious Ijege, the Slack Community and everyone at the The Code Institute for their help and support. 121 Fitness is a fictional company inspired by my brother.
+
+Joey O'Sullivan 2021.
 
 
