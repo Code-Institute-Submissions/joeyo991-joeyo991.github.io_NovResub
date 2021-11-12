@@ -4,7 +4,7 @@
 
 Welcome to the process through <a href="https://joeyo991.github.io/" target="_blank" rel="noopener">121 Fitness</a>
 
-![121 Fitness responsive design](readme-images/responsive.png)
+![121 Fitness responsive design](readme-images/responsive2.png)
 
 # Features
 
@@ -88,9 +88,79 @@ Welcome to the process through <a href="https://joeyo991.github.io/" target="_bl
   * Let the user check their progress and view their plan on the site.
 * Gallery
   * The site could have a gallery of before and after pictures from clients.
-* 
+* Payment
+  * An incorporated e-commerce platform to allow users to purchase plans on the site.
 
-   
+# Technologies Used
+
+* [HTML5](https://html.spec.whatwg.org/) - provides the content and structure for the website.
+* [CSS](https://www.w3.org/Style/CSS/Overview.en.html) - provides the styling.
+* [Gitpod](https://www.gitpod.io/#get-started) - used to deploy the website.
+* [Github](https://github.com/) - used to host and edit the website.
+
+# Testing
+
+## Code Validation
+The 121 Fitness site has been tested thoroughly. All the code has been run through the [W3C HTML Validator](https://validator.w3.org/) and the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/). All errors seem to have been fixed or spotted before I ran my code through the validators.
+
+The HTML code results are below:
+* Home Page
+
+![W3C Validator result](readme-images/w3ctesting.png)
+
+* Plans Page
+
+![W3C Validator result](readme-images/w3ctesting.png)
+
+* Sign Up Page
+
+![W3C Validator result](readme-images/w3ctesting.png)
+
+* Form Confirmation Page
+
+![W3C Validator result](readme-images/w3ctesting.png)
+
+The CSS results were as follows:
+
+![CSS Validator result](readme-images/csstesting.png)
+
+## Responsiveness Test
+The responsivess design tests were carried out with [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) and a [Responsive Design Checker](http://ami.responsivedesign.is/#)
+
+## Device Testing
+121 Fitness was tested and works on the following devices:
+* Moto G4
+* Galaxy S5
+* iPhone 5 / SE
+* iPhone 6/7/8 (Plus)
+* iPad / iPad Pro
+* Displays < 1200px
+* Displays > 1200px
+
+## Browser Testing
+121 Fitness was tested and works on the following browsers:
+* Google Chrome
+* Microsoft Edge
+* Mozilla Firefox
+* Safari
+
+## Bugs
+There were no bugs when validating my HTML and CSS. The only thing that is troubling me and is yet to be fixed is on the mobile screens. One of the headings is not centered and I have yet to figure it out. More testing will be done in the future to append this.
+
+![Mobile screen bug](readme-images/mobilebug.png)
+
+## Additional Testing
+
+The site was also tested using [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) in Chrome Developer Tools to test each of the pages for:
+
+* Performance - How the page performs while loading.
+* Accessibility - How accessible is the site.
+* Best Practices - The site conforms to industry best practices.
+* SEO - Search Engine Optimisation. Is the site optimised for search engine result rankings.
+
+The results for 121 Fitness' Home Page are below:
+
+![Lighthouse test results](readme-images/testing.png)
 
 
 

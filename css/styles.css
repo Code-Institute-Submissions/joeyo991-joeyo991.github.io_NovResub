@@ -153,6 +153,8 @@ h1, h2 {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
+    clear: both;
+    height: fit-content;
 }
 
 #circle-container {
@@ -173,6 +175,7 @@ h1, h2 {
 #link-to-plans {
     text-align: center;
     padding: 30px;
+    clear: both;
 }
 
 #link-to-plans h2 {
