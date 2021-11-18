@@ -16,7 +16,7 @@ The 121 Fitness website has three pages: The [home page](index.html) is the defa
 
   * ### Typography
       The chosen fonts were 'Roboto' for the headings and 'Montserrat' for the body text. They fall back to sans-serfif.
-      * 'Roboto' was chosen because it is a very clean and esy to read font. It looks great in bold and thus is perfect for the headings.
+      * 'Roboto' was chosen because it is a very clean and easy to read font. It looks great in bold and thus is perfect for the headings.
       * 'Montserrat' is used for the body text as it to is easy to read and also looks fantastic paired with the 'Roboto' font.
   
   * ### Colour Scheme
