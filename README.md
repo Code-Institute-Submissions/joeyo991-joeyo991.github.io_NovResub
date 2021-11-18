@@ -4,7 +4,7 @@
 
 Welcome to the process through <a href="https://joeyo991.github.io/" target="_blank" rel="noopener">121 Fitness</a>
 
-![121 Fitness responsive design](readme-images/responsive2.png)
+![121 Fitness responsive design](assets/readme-images/responsive2.png)
 
 # Features
 
@@ -17,7 +17,7 @@ Welcome to the process through <a href="https://joeyo991.github.io/" target="_bl
     * The logo is clickable with a link back to the home page for enhanced UX.
     * The page the user is currently on has a box around it in the navigation menu to easily remind them and for design purposes.
 
-![Navigation bar image](readme-images/navbar.png)
+![Navigation bar image](assets/readme-images/navbar.png)
 
   * ### Reasons
 
@@ -25,7 +25,7 @@ Welcome to the process through <a href="https://joeyo991.github.io/" target="_bl
     * These are the reasons that the user would want to sign up to 121 Fitness.
     * An imbedded link to the plans page in the text will help the user navigate there quickly if they please.
 
-![Reasons image](readme-images/reasons.png)
+![Reasons image](assets/readme-images/reasons.png)
 
   * ### About Me
     
@@ -33,14 +33,14 @@ Welcome to the process through <a href="https://joeyo991.github.io/" target="_bl
     * This section lets the user know how 121 Fitness started and how its going.
     * The section also gives them a photo of 'John' to make it feel more personal.
 
-![About Me image](readme-images/aboutme.png)
+![About Me image](assets/readme-images/aboutme.png)
 
   * ### Map
 
     * The map is located below the About Me section.
     * It shows the user where the company is situated in Dublin City.
 
-![Map image](readme-images/map.png)
+![Map image](assets/readme-images/map.png)
 
   * ### Reviews
 
@@ -48,7 +48,7 @@ Welcome to the process through <a href="https://joeyo991.github.io/" target="_bl
     * There are four reviews displayed giving a name, age and some text.
     * The reviews could be updated over time as more become available.
 
-![Reviews image](readme-images/reviews.png)
+![Reviews image](assets/readme-images/reviews.png)
 
   * ### Footer
 
@@ -56,7 +56,7 @@ Welcome to the process through <a href="https://joeyo991.github.io/" target="_bl
     * To enhance the UX the links open in a new tab.
     * The social media presence will help the user with their research into 121 Fitness and will also encourage them to connect.
 
-![Footer image](readme-images/footer.png)
+![Footer image](assets/readme-images/footer.png)
 
   * ### Plans Page
 
@@ -65,7 +65,7 @@ Welcome to the process through <a href="https://joeyo991.github.io/" target="_bl
     * The image is meant to keep the user engaged on the page.
     * There is also a button which links to the sign up page if the user likes what they see.
 
-![Plans Page image](readme-images/plans-page.png)
+![Plans Page image](assets/readme-images/plans-page.png)
 
   * ### Sign Up Page
 
@@ -73,14 +73,14 @@ Welcome to the process through <a href="https://joeyo991.github.io/" target="_bl
     * The sign up form is stylish and simple to use to enhance UX.
     * Each of the form input areas are required to ensure the user doesn't skip any of them by mistake.
 
-![Sign Up Page image](readme-images/signup-page.png) 
+![Sign Up Page image](assets/readme-images/signup-page.png) 
 
   * ### Form Confirmation
     * This page confirms that the user has submitted the form.
     * For this project it validates the form only.
     * It provides a direct link back to the home page as well as the normal navigational links in the header.
 
-![Form Confirmation image](readme-images/form-confirmation.png)
+![Form Confirmation image](assets/readme-images/form-confirmation.png)
 
 ## Future Features
 
@@ -106,23 +106,23 @@ The 121 Fitness site has been tested thoroughly. All the code has been run throu
 The HTML code results are below:
 * Home Page
 
-![W3C Validator result](readme-images/w3ctesting.png)
+![W3C Validator result](assets/readme-images/w3ctesting.png)
 
 * Plans Page
 
-![W3C Validator result](readme-images/w3ctesting.png)
+![W3C Validator result](assets/readme-images/w3ctesting.png)
 
 * Sign Up Page
 
-![W3C Validator result](readme-images/w3ctesting.png)
+![W3C Validator result](assets/readme-images/w3ctesting.png)
 
 * Form Confirmation Page
 
-![W3C Validator result](readme-images/w3ctesting.png)
+![W3C Validator result](assets/readme-images/w3ctesting.png)
 
 The CSS results were as follows:
 
-![CSS Validator result](readme-images/csstesting.png)
+![CSS Validator result](assets/readme-images/csstesting.png)
 
 ## Responsiveness Test
 The responsivess design tests were carried out with [Google Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) and a [Responsive Design Checker](http://ami.responsivedesign.is/#)
@@ -147,7 +147,7 @@ The responsivess design tests were carried out with [Google Chrome Dev Tools](ht
 ## Bugs
 There were no bugs when validating my HTML and CSS. The only thing that is troubling me and is yet to be fixed is on the mobile screens. One of the headings is not centered and I have yet to figure it out. More testing will be done in the future to append this.
 
-![Mobile screen bug](readme-images/mobilebug.png)
+![Mobile screen bug](assets/readme-images/mobilebug.png)
 
 ## Additional Testing
 
@@ -160,7 +160,7 @@ The site was also tested using [Google Lighthouse](https://developers.google.com
 
 The results for 121 Fitness' Home Page are below:
 
-![Lighthouse test results](readme-images/testing.png)
+![Lighthouse test results](assets/readme-images/testing.png)
 
 # Deployment
 
@@ -173,7 +173,7 @@ The site was deployed to GitHub Pages. The steps to deploy a site are as follows
 3. Under **Source**, select the branch to main / master, then click save.
 4. Once the main branch has been selected, the page will automatically refresh and indicate that the deployment was successful.
 
-![GitHub pages deployment image](readme-images/github-deploy.png)
+![GitHub pages deployment image](assets/readme-images/github-deploy.png)
 
 The live link to the GitHub repository is - https://github.com/joeyo991/joeyo991.github.io
 
