@@ -136,7 +136,7 @@ h1, h2 {
 /* about section */
 
 #about {
-    height: 350px;
+    height: fit-content;
 }
 
 #about h2 {
@@ -517,6 +517,10 @@ footer h2 {
     
     #reviews h2 {
         font-size: 125%;
+    }
+
+    #reviews div {
+        padding: 5px;
     }
 
 }
