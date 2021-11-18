@@ -414,6 +414,10 @@ footer h2 {
         left: 20%;
 }
 
+    #about {
+        height: fit-content;
+    }
+
 }
 
 /*For medium screens */
