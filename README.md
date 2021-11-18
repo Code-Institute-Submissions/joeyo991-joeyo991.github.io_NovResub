@@ -6,6 +6,24 @@ Welcome to the process through <a href="https://joeyo991.github.io/" target="_bl
 
 ![121 Fitness responsive design](assets/readme-images/responsive2.png)
 
+# User Experience
+
+## Site Structure
+
+The 121 Fitness website has three pages: The [home page](index.html) is the default loading page, the [plans](plans.html) and [sign up](sign-up.html) pages are accessible primarily from the navigation bar. There are other link to the plans page in the 'reasons' section and below the 'about' section. There is also a link to the sign up page below the plans. These give the user some guidance to the next step of the journey.
+
+## Design Choices
+
+  * ### Typography
+      The chosen fonts were 'Roboto' for the headings and 'Montserrat' for the body text. they fall back to sans-serfif.
+      * 'Roboto' was chosen because it is a very clean and esy to read font. It looks great in bold and thus is perfect for the headings.
+      * 'Montserrat' is used for the body text as it to is easy to read and also looks fantastic paired with the 'Roboto' font.
+  
+  * ### Colour Scheme
+      The colour scheme eventually chosen is one based on white, black and a pigment of orange called 'Gamboge'. The colours make the site easy to read and also look very stylish when paired together.
+
+![Colour Palate image](assets/readme-images/color-palate.png)
+
 # Features
 
 121 Fitness is set up to be welcoming and easy to use. It contains many features that the user would probably be familiar with, such as a navigation bar and a sign-up page. The site is inteded to be visually pleasing and invite the user to explore further.
@@ -176,6 +194,26 @@ The site was deployed to GitHub Pages. The steps to deploy a site are as follows
 ![GitHub pages deployment image](assets/readme-images/github-deploy.png)
 
 The live link to the GitHub repository is - https://github.com/joeyo991/joeyo991.github.io
+
+## To fork the repository on GitHub
+
+A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository:
+
+1. Log into **GitHub** and locate the [repository](https://github.com/joeyo991/joeyo991.github.io).
+2. On the right hand side of the page inline with the repository name is a button called **Fork**, click on the button to create a copy of the original repository in your GitHub account.
+![GitHub forking image](assets/readme-images/forking.png)
+
+## To create a local clone of this project
+The method for cloning a project is below:
+
+1. Under the repository's name, click on the **code** tab.
+2. In the **Clone with HTTPS** section, click on the icon next to the URL to copy it.
+![Cloning image](assets/readme-images/clone.png)
+3. In your IDE of choice, open **Git Bash**.
+4. Change the current working directory to the location where you want the cloned directory to be made.
+5. Type **git clone**, and then paste the URL copied from GitHub.
+6. Press **enter** and the local clone will be created.
+
 
 # Credits
 
