@@ -155,12 +155,17 @@ The responsivess design tests were carried out with [Google Chrome Dev Tools](ht
 * Displays < 1200px
 * Displays > 1200px
 
+The page fully renders, all images render and there are no broken links.
+
 ## Browser Testing
 121 Fitness was tested and works on the following browsers:
 * Google Chrome
 * Microsoft Edge
 * Mozilla Firefox
 * Safari
+
+The page fully renders, all images render and there are no broken links.
+
 
 ## Bugs
 There were no bugs when validating my HTML and CSS. The only thing that is troubling me and is yet to be fixed is on the mobile screens. One of the headings is not centered and I have yet to figure it out. More testing will be done in the future to append this.
